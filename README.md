@@ -73,4 +73,4 @@ fd -L -tl -x readlink
 
 # Project Definition
 
-[board picture]('./media/signal-2023-09-01-172412_002.jpeg')
+- [board picture]('./media/signal-2023-09-01-172412_002.jpeg')
