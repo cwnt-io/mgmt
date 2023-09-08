@@ -3,12 +3,18 @@ Repo for management, issues, docs, etc...
 
 <!-- toc GFM -->
 
++ [Links and References:](#links-and-references)
 + [unorganized issues](#unorganized-issues)
 + [Scrum / Agile](#scrum--agile)
 + [Symlinks](#symlinks)
 + [Project Definition](#project-definition)
 
 <!-- toc -->
+
+# Links and References:
+
+- [Idiomatic Rust: resources for writing clean, idiomatic Rust code](https://github.com/mre/idiomatic-rust)
+- [Command line apps in Rust](https://rust-cli.github.io/book/)
 
 # unorganized issues
 
