@@ -1,12 +1,6 @@
-# Git Workflow / gitflow
+# Cwntflow Workflow
 
-<!-- toc GFM -->
-
-- [Git Feature Branch Workflow](#git-feature-branch-workflow)
-    + [A) Implementation: `user-dev`](#a-implementation-user-dev)
-    + [B) Review: Open Pull Request (PR)](#b-review-open-pull-request-pr)
-    + [C) Close PR: Merge/Publish feature](#c-close-pr-mergepublish-feature)
-    + [References](#references)
+> Git Workflow inpired by Gitflow
 
 <!-- toc -->
 
@@ -17,7 +11,6 @@
 * <https://martinfowler.com/articles/branching-patterns.html>
 
 ### Git Feature Branch Workflow
-
 
 Project branches:
 
