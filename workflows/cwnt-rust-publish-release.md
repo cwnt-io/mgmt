@@ -5,6 +5,11 @@
 
 <!-- toc -->
 
+- [Manually](#manually)
+- [Automatically (CI/CD)](#automatically-cicd)
+
+<!-- tocstop -->
+
 ## Manually
 
 Make shure CHANGELOG is updated:

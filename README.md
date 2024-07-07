@@ -11,6 +11,14 @@ Repo for management, issues, docs, etc...
 
 <!-- toc -->
 
+- [Links and References:](#links-and-references)
+- [unorganized issues](#unorganized-issues)
+- [Scrum / Agile](#scrum--agile)
+- [Symlinks](#symlinks)
+- [Project Definition](#project-definition)
+
+<!-- tocstop -->
+
 # Links and References:
 
 - [Idiomatic Rust: resources for writing clean, idiomatic Rust code](https://github.com/mre/idiomatic-rust)
