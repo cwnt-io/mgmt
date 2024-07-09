@@ -39,7 +39,7 @@
 ```mermaid
 sequenceDiagram
 participant DL as dev (`local`)
-participant DR as dev (`remote`)
+participant DR as dev (`origin`)
 participant M as mainline (`upstream`)
 
 M ->> DL: git pull (get latest code)
