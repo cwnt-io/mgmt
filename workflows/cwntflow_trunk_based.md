@@ -67,8 +67,8 @@ DL ->> M: git push `upstream` [continuous-push-process]
 
 ```mermaid
 sequenceDiagram
-participant C as contributor
-participant D as dev
+participant C as contributor's fork
+participant D as dev's fork
 participant M as mainline (`upstream`)
 
 M ->> C: [get-latest-code]
@@ -262,7 +262,7 @@ Contributers Forks:
 - Central repository `central-repo` (`admin` is responsible)
 - Has one main/essential branch: `master` branch (which is called `mainline`)
 
-- Everybody commits/pushes/pulls directly do `master`, continuously, daily, multiple times a day.
+- `core-team` commits/pushes/pulls directly do `master`, continuously, daily, multiple times a day.
 - It's the development branch
 
 - `local`: `admin`'s computer
@@ -305,7 +305,7 @@ Remote naming explanation:
   - `dev`s and `contributors` should follow this naming convention to refer to the `central-repo`
   - `admin` will not have a `upstream` remote. His `origin` refers to the `central-repo` itself.
 
-- `dev-<core-team_user_name>`: remotes of `dev`s from the `admin` perspective. Can be multiple developers repositories.
+- `dev-<core-team_user_name>`: remotes of `dev`s from the `admin` or `contributors` perspective. Can be multiple developers repositories.
 
 - `contrib-<contributors_user_name>`: remotes of a `contributor` from a `dev` perspective. Can be multiple contributors repositories.
 
