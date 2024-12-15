@@ -410,6 +410,7 @@ Pending topics to study and implement.
 
 > feature flags
 
+- https://flaggy.dev/blog/understanding-feature-flags-agile-development
 - manage?
   - https://www.npmjs.com/package/simple-file-toggle
 - [What are Feature Flags? - IBM Technology](https://www.youtube.com/watch?v=AJa2B-twtG4)
